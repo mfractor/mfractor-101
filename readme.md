@@ -12,7 +12,7 @@ Have you ever created a data-binding and ran your application only to discover y
 
 ViewModel property IntelliSense is one of the many features in MFractors XAML editor. By automatically detecting the ViewModel for a XAML file, MFractor suggests your ViewModels properties in IntelliSense and even lets you generate properties and commands onto your ViewModel.
 
-![Using MFractors MVVM IntelliSense when working with ViewModels](img/mvvm-intelliSense.gif)
+![Using MFractors MVVM IntelliSense when working with ViewModels](img/mvvm-intellisense.gif)
 
 MFractor also checks binding expressions for many common issues (for example, does that property exist in the ViewModel?), provides detailed binding tooltips and includes navigation shortcuts to let you quickly move between your View and ViewModel.
 
@@ -76,3 +76,5 @@ To get MFractor, open the Extension Manager using the Extensions item in the mai
 MFractor comes in a free version, MFractor Lite, and a paid version, MFractor Professional. For $200AUD per user per year, less than a dollar a day, MFractor Professional is a useful addition to your Xamarin toolbelt that quickly repays itself with productivity gains.
 
 To learn more about MFractor, head to www.mfractor.com.
+
+![MFractors logo](img/logo-horizontal.png)
