@@ -71,10 +71,16 @@ The Font Importer is available in MFractor Professional.
 
 ## Summary
 
+MFractor is available in two flavours; Lite (free) and Professional (paid).
+
+MFractor Lite is fantastic value by enabling our XAML Editor in four files per day. You can use MFractors XAML IntelliSense to gain ViewModel property code completion, use 70+ code inspections to spot a range of common issues, 50+ code actions, detail tooltips and navigation shortcuts.
+
+If you want even more powerful features, upgrade to MFractor Professional to use the [Image Importer and Image Manager](https://www.mfractor.com/blogs/news/simplified-image-asset-management-for-xamarin-apps), the [Font Importer](https://www.mfractor.com/blogs/news/using-custom-fonts-in-xamarin-forms), the [MVVM Wizard](https://www.mfractor.com/blogs/news/generating-viewmodels-in-xamarin-forms-with-the-mvvm-wizard) and for unrestricted access to our XAML editor.
+
 To get MFractor, open the Extension Manager using the Extensions item in the main Visual Studio menu and under **Gallery** and **IDE Extensions** choose MFractor and then install.
 
-MFractor comes in a free version, MFractor Lite, and a paid version, MFractor Professional. For $200AUD per user per year, less than a dollar a day, MFractor Professional is a useful addition to your Xamarin toolbelt that quickly repays itself with productivity gains.
+To learn more about about MFractor, head to www.mfractor.com.
 
-To learn more about MFractor, head to www.mfractor.com.
+PS: Use the discount code **MFRACTOR-101** to take 10% off MFractor Professional 😉
 
 ![MFractors logo](img/logo-horizontal.png)
