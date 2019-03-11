@@ -61,7 +61,7 @@ To use a font in Xamarin.Forms, we include add the font to our Android and iOS p
 
 Instead of doing this fiddly work, we can use MFractors **Font Importer** to add a ttf or otf file into our Android an iOS projects. This handy tool adds the new font in each project, creates an Info.plist entry in any iOS projects and generates the font lookup XAML ready for us to use:
 
-![Using MFractors Font Importer to add a new font asset to your Android and iOS projects](img/font-importer-demo.gif)
+![Using MFractors Font Importer to add a new font asset to your Android and iOS projects](img/font-importer.png)
 
 Access the Font Importer through the top **MFractor** menu and then choosing **Import**, **Font**.
 
